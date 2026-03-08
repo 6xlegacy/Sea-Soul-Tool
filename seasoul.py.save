@@ -1,0 +1,6 @@
+
+message = input("Enter message: ")
+count = int(input("How many times: "))
+
+for i in range(count):
+    print(f"{i+1} - {message}")
