@@ -19,4 +19,5 @@ Nano
 
 1. Make sure Python 3 is installed.
 2. Download the script.
-3. Run it in the terminal
+3. write cd sea-soul-tool
+4. write python seasoul.py and enjoy! 
